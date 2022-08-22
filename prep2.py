@@ -1,4 +1,6 @@
-str = print("Enter any character: ")
+str = print("""
+Eye style:
+""")
 print("|||||||")
 print("| ", str, " ", str, " |")
 print("""|  _  |
